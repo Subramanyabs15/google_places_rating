@@ -1,5 +1,3 @@
-# google_places_rating
-
 # Google Places Rating Fetch
 
 A simple Python script to get place ratings and user counts from Google Places API.

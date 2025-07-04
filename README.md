@@ -10,3 +10,5 @@ Replace `YOUR_API_KEY` with a valid key if testing live.
 
 ## How to Run
 
+python google_places_rating.py
+
